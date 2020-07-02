@@ -1,4 +1,6 @@
 {
+    "end-of-life": "This plugin package has been renamed to...",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.ADLplug",
     "skip-icons-check": true,
     "only-arches": ["x86_64"]
 }
